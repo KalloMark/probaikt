@@ -1,5 +1,6 @@
 # probaikt
 Teszt(1)
-# gépről írtam
+# Megtudtuk miről írta ezt a bejegyzést
 # saját gép bejegyzés
 # Mi a helyzet?
+#
